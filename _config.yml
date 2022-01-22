@@ -1,12 +1,14 @@
-title: Aashima Ahuja # your name (or website title) here
-logo: "/profile.png?raw=true" # your photo (or logo) here
+title: Hardik Bansal # your name (or website title) here
+logo: "/Profile.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
- Senior Frontend Engineer
+ Engineer
   <br><br>
-  <a href="mailto:aashima.ahuja811@gmail.com">aashima.ahuja811@gmail.com </a>
+  <a href="mailto:hardik.guy@gmail.com">hardik.guy@gmail.com </a>
   <br>
-  <a href="https://www.linkedin.com/in/aashimaahuja/">LinkedIn Profile</a>
+  <a href="https://www.linkedin.com/in/hardik-bansal-84a440159/">LinkedIn Profile</a>
   <br>
-  <a href="https://www.gihub.com/aashimaahuja/">Gihub</a> 
+  <a href="https://github.com/bansal-hardik">Github </a>
+  <br>
+  <a href="https://leetcode.com/bansal_hardik/">LeetCode </a>
 theme: jekyll-theme-minimal
 
