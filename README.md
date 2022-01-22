@@ -7,9 +7,9 @@ Working on the domain of Investment Banking BackOffice responsible for developin
 ## Skills
 
 <p align='left'>
-  <img src="https://en.wikipedia.org/wiki/Microsoft_Azure#/media/File:Microsoft_Azure.svg" alt="azure" width="40" height="40">
-  <img src='https://en.wikipedia.org/wiki/.NET_Framework#/media/File:.NET_Logo.svg' alt=".net" width="40" height="40">
-  <img src='https://en.wikipedia.org/wiki/C_Sharp_(programming_language)#/media/File:C_Sharp_wordmark.svg' height='30' width='auto' alt="cs">
+   AZURE,
+   C#,
+   DOTNET CORE
 </p>
 
 ---
