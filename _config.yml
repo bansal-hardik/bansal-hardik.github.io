@@ -1,13 +1,12 @@
-title: Hardik Bansal # your name (or website title) here
-description: > # your text below ( remove <br> elements if you don't need line breaks)
-Engineer
- <br><br>
- <a href="mailto:hardik.guy@gamil.com">hardik.guy@gmail.com </a>
- <br>
- <a href="hardik-bansal-84a440159">LinkedIn </a>
- <br>
- <a href="https://github.com/bansal-hardik">Github </a>
- <br>
- <a href="https://leetcode.com/bansal_hardik/">LeetCode </a>
- theme: jekyll-theme-minimal
+title: Aashima Ahuja # your name (or website title) here
+logo: "/profile.png?raw=true" # your photo (or logo) here
+description: > # your text below (remove <br> elements if you don't need line breaks)
+ Senior Frontend Engineer
+  <br><br>
+  <a href="mailto:aashima.ahuja811@gmail.com">aashima.ahuja811@gmail.com </a>
+  <br>
+  <a href="https://www.linkedin.com/in/aashimaahuja/">LinkedIn Profile</a>
+  <br>
+  <a href="https://www.gihub.com/aashimaahuja/">Gihub</a> 
+theme: jekyll-theme-minimal
 
