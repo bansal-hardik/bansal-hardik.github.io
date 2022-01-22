@@ -1,5 +1,4 @@
 title: Hardik Bansal # your name (or website title) here
-logo: "/Profile.jpg?raw=true" # your photo (or logo) here
 description: > # your text below ( remove <br> elements if you don't need line breaks)
 Engineer
  <br><br>
@@ -10,4 +9,5 @@ Engineer
  <a href="https://github.com/bansal-hardik">Github </a>
  <br>
  <a href="https://leetcode.com/bansal_hardik/">LeetCode </a>
+ theme: jekyll-theme-minimal
 
