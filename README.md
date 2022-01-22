@@ -7,6 +7,9 @@ Working on the domain of Investment Banking BackOffice responsible for developin
 ## Skills
 
 <p align='left'>
+  <img src="https://en.wikipedia.org/wiki/Microsoft_Azure#/media/File:Microsoft_Azure.svg" alt="azure" width="40" height="40">
+  <img src='https://en.wikipedia.org/wiki/.NET_Framework#/media/File:.NET_Logo.svg' alt=".net" width="40" height="40">
+  <img src='https://en.wikipedia.org/wiki/C_Sharp_(programming_language)#/media/File:C_Sharp_wordmark.svg' height='30' width='auto' alt="cs">
 </p>
 
 ---
@@ -15,8 +18,7 @@ Working on the domain of Investment Banking BackOffice responsible for developin
 
 ### **ENGINEER (DOTNET CORE DEVELOPER)**
 
-### **SOFTWARE DEVELOPER**
-### NAGARRO PVT, LTD
+### NAGARRO INDIA SOFTWARE PVT, LTD
 Working in Investment Banking Domain Corporate Action Back Office , Responsible for development and improvement of the service in Back Office.
 
 ---
@@ -30,4 +32,4 @@ GPA 8.34
 ---
 
 ### INTERESTS
-I Like to Travel and Dance . I am also like to spend my time on LeetCode to solve different tyope of Programming. I like the combination of Hot Tea and Interesting Book in my free time
+I Like to Travel and Dance . I am also like to spend my time on LeetCode to solve different type of Programming. I like the combination of Hot Tea and Interesting Book in my free time
