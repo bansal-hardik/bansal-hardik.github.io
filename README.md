@@ -1,6 +1,6 @@
 ## Portfolio
 
-Working on the domain of Investment Banking BackOffice responsible for developing, improving the functionality and analysis of the functional impact of the Corporate Actions Service. Problem solving and Optimizing ability of Existing Functionality.
+Working as Engineer in a Prestige organisation. Skilled in DotNet and DotNet Core. Data Structure and Algorithm Enthusiast. Good Domain knowledge about Corporate Action BackOffice Investment Bank.
 
 ---
 
@@ -9,7 +9,9 @@ Working on the domain of Investment Banking BackOffice responsible for developin
 <p align='left'>
    AZURE,
    C#,
-   DOTNET CORE
+   DOTNET CORE,
+   MicroService,
+   C++
 </p>
 
 ---
@@ -32,4 +34,4 @@ GPA 8.34
 ---
 
 ### INTERESTS
-I Like to Travel and Dance . I am also like to spend my time on LeetCode to solve different type of Programming. I like the combination of Hot Tea and Interesting Book in my free time
+I like to Travel and Dance. I also like to spend my time on LeetCode to solve different types of Programming. I like the combination of Hot Tea and Interesting Book in my free time.
