@@ -21,11 +21,15 @@ Working as Engineer in a Prestige organisation. Skilled in DotNet and DotNet Cor
 ### **ENGINEER (DOTNET CORE DEVELOPER)**
 
 ### NAGARRO INDIA SOFTWARE PVT, LTD
-Working in Investment Banking Domain Corporate Action Back Office , Responsible for development and improvement of the service in Back Office.
+Worked on the domain of Investment Banking BackOffice responsible for developing, and improving the functionality and analysis of the functional impact of the Corporate Actions Service. Problem-solving and Optimizing ability. Currently pursuing Masters of Technology in CS with Specialization in Analytics
 
 ---
 
 ## Education
+
+### **National Institute of Technology , Delhi**
+### Mtech Computer Science (2022 - 2024(Persuing))
+GPA 8.8
 
 ### **Dr. A.P.J Abdul Kalam Technical**
 ### BTech Computer Science (2016 - 2020)
