@@ -1,6 +1,6 @@
 ## Portfolio
 
-Working as Engineer in a Prestige organisation. Skilled in DotNet and DotNet Core. Data Structure and Algorithm Enthusiast. Good Domain knowledge about Corporate Action BackOffice Investment Bank. Currently persuing Master of Technology in Computer Science.
+Worked as Software Developer in a Prestige organisation. Skilled in DotNet and DotNet Core. Data Structure and Algorithm Enthusiast. Good Domain knowledge about Corporate Action BackOffice Investment Bank. Currently persuing Master of Technology in Computer Science.
 
 ---
 
@@ -37,7 +37,7 @@ GPA 8.34
 
 ---
 
-### **Achievements**
+## Achievements
 Nagarro Software Pvt Ltd –
    Achievement of recognition in
    Outstanding Work in the project.
@@ -46,5 +46,11 @@ Completed 180+ questions of LeetCode . 3 Badges earn on leetcode
 
 ---
 
-### INTERESTS
+## Projects
+Optical Character Recognition of Hindi Characters Using Logistic Regression (using built-in and user-defined function)[M.Tech 1 Semester Project ]
+Refer : https://github.com/bansal-hardik/Python-Project
+
+---
+
+## INTERESTS
 I like to Travel and Dance. I also like to spend my time on LeetCode to solve different types of Programming. I like the combination of Hot Tea and Interesting Book in my free time.
