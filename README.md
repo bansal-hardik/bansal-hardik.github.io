@@ -48,7 +48,7 @@ Completed 180+ questions of LeetCode . 3 Badges earn on leetcode
 
 ## Projects
 Optical Character Recognition of Hindi Characters Using Logistic Regression (using built-in and user-defined function)[M.Tech 1 Semester Project ]
-Refer : https://github.com/bansal-hardik/Python-Project
+Refer : <a href="https://github.com/bansal-hardik/Python-Project">Project Link </a>
 
 ---
 
