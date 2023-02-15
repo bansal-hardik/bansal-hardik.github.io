@@ -1,6 +1,6 @@
 ## Portfolio
 
-Working as Engineer in a Prestige organisation. Skilled in DotNet and DotNet Core. Data Structure and Algorithm Enthusiast. Good Domain knowledge about Corporate Action BackOffice Investment Bank.
+Working as Engineer in a Prestige organisation. Skilled in DotNet and DotNet Core. Data Structure and Algorithm Enthusiast. Good Domain knowledge about Corporate Action BackOffice Investment Bank. Currently persuing Master of Technology in Computer Science.
 
 ---
 
@@ -34,6 +34,15 @@ GPA 8.8
 ### **Dr. A.P.J Abdul Kalam Technical**
 ### BTech Computer Science (2016 - 2020)
 GPA 8.34
+
+---
+
+### **Achievements**
+Nagarro Software Pvt Ltd –
+   Achievement of recognition in
+   Outstanding Work in the project.
+
+Completed 180+ questions of LeetCode . 3 Badges earn on leetcode
 
 ---
 
