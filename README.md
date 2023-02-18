@@ -21,18 +21,18 @@ Worked as Software Developer in a Prestige organisation. Skilled in DotNet and D
 ### **ENGINEER (DOTNET CORE DEVELOPER)**
 
 ### NAGARRO INDIA SOFTWARE PVT, LTD
-Worked on the domain of Investment Banking BackOffice responsible for developing, and improving the functionality and analysis of the functional impact of the Corporate Actions Service. Problem-solving and Optimizing ability. Currently pursuing Masters of Technology in CS with Specialization in Analytics
+Worked on the domain of Investment Banking BackOffice responsible for developing, and improving the functionality and analysis of the functional impact of the Corporate Actions Service. Problem-solving and Optimizing ability.
 
 ---
 
 ## Education
 
 ### **National Institute of Technology , Delhi**
-### Mtech Computer Science (2022 - 2024(Persuing))
+### Mtech - Computer Science (2022 - 2024(Persuing))
 GPA 8.8
 
 ### **Dr. A.P.J Abdul Kalam Technical**
-### BTech Computer Science (2016 - 2020)
+### BTech - Computer Science (2016 - 2020)
 GPA 8.34
 
 ---
