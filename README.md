@@ -52,5 +52,10 @@ Refer : <a href="https://github.com/bansal-hardik/Python-Project">Project Link <
 
 ---
 
+## Resume
+Link : <a href="https://drive.google.com/file/d/1oD7McPPIo_ITI98Azb_Scn8CkAn0WxUl/view">Resume Link </a>
+
+---
+
 ## INTERESTS
 I like to Travel and Dance. I also like to spend my time on LeetCode to solve different types of Programming. I like the combination of Hot Tea and Interesting Book in my free time.
