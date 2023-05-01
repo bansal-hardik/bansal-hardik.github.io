@@ -1,6 +1,6 @@
 ## Portfolio
 
-Worked as Software Developer in a Prestige organisation. Skilled in DotNet and DotNet Core. Data Structure and Algorithm Enthusiast. Good Domain knowledge about Corporate Action BackOffice Investment Bank. Currently persuing Master of Technology in Computer Science.
+Currently pursuing Master of Technology in Computer Science .2 years of experience executing various business functionality requirements, delivering stable and scalable approaches to improve target Application Development within time and quality parameters as per project management and best practice guidelines under an organization of repute.
 
 ---
 
@@ -11,7 +11,10 @@ Worked as Software Developer in a Prestige organisation. Skilled in DotNet and D
    C#,
    DOTNET CORE,
    MicroService,
-   C++
+   C++,
+   Python,
+   Machine Learning,
+   Deep Learning
 </p>
 
 ---
@@ -42,12 +45,15 @@ Nagarro Software Pvt Ltd –
    Achievement of recognition in
    Outstanding Work in the project.
 
-Completed 180+ questions of LeetCode . 3 Badges earn on leetcode
+Completed 250+ questions of LeetCode . 3 Badges earn on leetcode
 
 ---
 
 ## Projects
 Optical Character Recognition of Hindi Characters Using Logistic Regression (using built-in and user-defined function)[M.Tech 1 Semester Project ]
+Refer : <a href="https://github.com/bansal-hardik/Python-Project">Project Link </a>
+
+Cancer Detection Using Transfer Learning [M.Tech 2 Semester Project ]
 Refer : <a href="https://github.com/bansal-hardik/Python-Project">Project Link </a>
 
 ---
