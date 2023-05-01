@@ -1,6 +1,6 @@
 ## Portfolio
 
-Currently pursuing Master of Technology in Computer Science .2 years of experience executing various business functionality requirements, delivering stable and scalable approaches to improve target Application Development within time and quality parameters as per project management and best practice guidelines under an organization of repute.
+Currently pursuing Master of Technology in Computer Science. 2 years of experience executing various business functionality requirements, delivering stable and scalable approaches to improve target Application Development within time and quality parameters as per project management and best practice guidelines under an organization of repute.
 
 ---
 
@@ -45,7 +45,7 @@ Nagarro Software Pvt Ltd –
    Achievement of recognition in
    Outstanding Work in the project.
 
-Completed 250+ questions of LeetCode . 3 Badges earn on leetcode
+Completed 250+ questions of LeetCode. 3 Badges earn on leetcode
 
 ---
 
