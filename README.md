@@ -32,7 +32,7 @@ Worked on the domain of Investment Banking BackOffice responsible for developing
 
 ### **National Institute of Technology , Delhi**
 ### Mtech - Computer Science (2022 - 2024(Persuing))
-GPA 8.8
+GPA 8.67
 
 ### **Dr. A.P.J Abdul Kalam Technical**
 ### BTech - Computer Science (2016 - 2020)
@@ -45,7 +45,7 @@ Nagarro Software Pvt Ltd –
    Achievement of recognition in
    Outstanding Work in the project.
 
-Completed 250+ questions of LeetCode. 3 Badges earn on leetcode
+Completed 350+ questions of LeetCode. 5 Badges earn on leetcode
 
 ---
 
