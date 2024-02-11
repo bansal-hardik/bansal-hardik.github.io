@@ -26,6 +26,10 @@ Currently pursuing Master of Technology in Computer Science. 2 years of experien
 ### NAGARRO INDIA SOFTWARE PVT, LTD
 Worked on the domain of Investment Banking BackOffice responsible for developing, and improving the functionality and analysis of the functional impact of the Corporate Actions Service. Problem-solving and Optimizing ability.
 
+### **SOFTWARE-FIRMWARE INTERN (DOTNET CORE DEVELOPER)**
+
+### MARVELL SEMICONDUCTOR
+Working on creating tools and framework for the Business Units. Participating in creating unit tests and development of the product. Involved in the maintainability of the documentation of the product.
 ---
 
 ## Education
