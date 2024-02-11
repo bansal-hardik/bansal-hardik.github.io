@@ -21,7 +21,7 @@ Currently pursuing Master of Technology in Computer Science. 2 years of experien
 
 ## Experience
 
-### **SOFTWARE-FIRMWARE INTERN (DOTNET CORE DEVELOPER)**
+### **SOFTWARE-FIRMWARE INTERN **
 
 ### MARVELL SEMICONDUCTOR
 Working on creating tools and framework for the Business Units. Participating in creating unit tests and development of the product. Involved in the maintainability of the documentation of the product.
