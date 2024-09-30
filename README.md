@@ -26,7 +26,7 @@ Senior Software/Firmware Engineer in Marvell India, Working in Precision Time Pr
 ### SENIOR SOFTWARE-FIRMWARE ENGINEER 
 
 #### MARVELL SEMICONDUCTOR
-Working on Precision Time Protocol in Automotive Domain. Involve in Firmware Development for Automtive Switch Development.
+Working on Precision Time Protocol in Automotive Domain. Involve in Firmware Development for Automotive Switch Development.
 
 ### SOFTWARE-FIRMWARE INTERN 
 
@@ -60,6 +60,19 @@ Nagarro Software Pvt Ltd –
 
 Completed 350+ questions of LeetCode. 5 Badges earn on leetcode
 
+---
+
+## Publication
+
+### **SCIENCE DIRECT JOURNAL - SRANK : Guiding Schema Selection in NoSQL Document Stores (Co-Author)**
+### Mtech - Computer Science (2022 - 2024)
+This paper presents a model for evaluating schema alternatives in NoSQL document stores, emphasizing the importance of schema design for performance. It includes a four-phase process to analyze schema options and recommends the best choice based on a computed Schema Rank (SRank). A case study on a Hotel Reservation System demonstrates the model's effectiveness in optimizing query response time, storage efficiency, and overall performance.
+Refer : <a href="https://www.sciencedirect.com/science/article/abs/pii/S0169023X24000843">Paper Link </a>
+
+### **IEEE CONFERENCE - Cost Model for Schema Choices: Performance and Trade Analysis (Author)**
+### Mtech - Computer Science (2022 - 2024)
+This paper addresses the challenges of schema design in NoSQL databases by employing directed acyclic schema graphs and knowledge graphs to analyze field interdependencies in workload queries. It utilizes a Cost Model to estimate and identify optimal schemas, demonstrating that the proposed approach achieves shorter query execution times, lower latency, and improved maintainability. This significantly simplifies schema decision-making for users, a critical issue in the field for decades.
+Refer : <a href="https://drive.google.com/file/d/1VifSF7SHsAhsttwo9L5tHnS2PMOEujDF/view?usp=drive_link">Certicate Link </a>
 ---
 
 ## Projects
