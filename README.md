@@ -1,6 +1,6 @@
 ## Portfolio
 
-Senior Software/Firmware Engineer in Marvell India, Working in Precision Time Protocol in Automotive Domain.Master of Technology in Computer Science from NIT Delhi. 2 years of experience executing various business functionality requirements, delivering stable and scalable approaches to improve target Application Development within time and quality parameters as per project management and best practice guidelines under an organization of repute.
+Senior Software/Firmware Engineer in Marvell India, Working in Precision Time Protocol in Automotive Domain.Master of Technology in Computer Science from NIT Delhi. 3.5 years of experience executing various business functionality requirements, delivering stable and scalable approaches to improve target Application Development within time and quality parameters as per project management and best practice guidelines under an organization of repute.
 
 ---
 
@@ -47,7 +47,7 @@ Worked on the domain of Investment Banking BackOffice responsible for developing
 ### Mtech - Computer Science (2022 - 2024)
 GPA 8.9
 
-### **Dr. A.P.J Abdul Kalam Technical**
+### **Dr. A.P.J Abdul Kalam Technical University**
 ### BTech - Computer Science (2016 - 2020)
 GPA 8.34
 
