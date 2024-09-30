@@ -74,7 +74,7 @@ Refer : <a href="https://www.sciencedirect.com/science/article/abs/pii/S0169023X
 ### Mtech - Computer Science (2022 - 2024)
 
 This paper addresses the challenges of schema design in NoSQL databases by employing directed acyclic schema graphs and knowledge graphs to analyze field interdependencies in workload queries. It utilizes a Cost Model to estimate and identify optimal schemas, demonstrating that the proposed approach achieves shorter query execution times, lower latency, and improved maintainability. This significantly simplifies schema decision-making for users, a critical issue in the field for decades.
-Refer : <a href="https://drive.google.com/file/d/1VifSF7SHsAhsttwo9L5tHnS2PMOEujDF/view?usp=drive_link">Certicate Link </a>
+Refer : <a href="https://drive.google.com/file/d/1VifSF7SHsAhsttwo9L5tHnS2PMOEujDF/view?usp=drive_link">Certificate Link </a>
 
 ---
 
