@@ -1,6 +1,6 @@
 ## Portfolio
 
-Currently pursuing Master of Technology in Computer Science. 2 years of experience executing various business functionality requirements, delivering stable and scalable approaches to improve target Application Development within time and quality parameters as per project management and best practice guidelines under an organization of repute.
+Senior Software/Firmware Engineer in Marvell India, Working in Precision Time Protocol in Automotive Domain .Master of Technology in Computer Science from NIT Delhi. 2 years of experience executing various business functionality requirements, delivering stable and scalable approaches to improve target Application Development within time and quality parameters as per project management and best practice guidelines under an organization of repute.
 
 ---
 
@@ -14,18 +14,24 @@ Currently pursuing Master of Technology in Computer Science. 2 years of experien
    C++,
    Python,
    Machine Learning,
-   Deep Learning
+   Deep Learning,
+   Precision Time Protocol,
+   Firmware Development
 </p>
 
 ---
 
 ## Experience
 
+### SENIOR SOFTWARE-FIRMWARE ENGINEER 
+
+#### MARVELL SEMICONDUCTOR
+Working on Precision Time Protocol in Automotive Domain. Involve in Firmware Development for Automtive Switch Development.
 
 ### SOFTWARE-FIRMWARE INTERN 
 
 #### MARVELL SEMICONDUCTOR
-Working on creating tools and framework for the Business Units. Participating in creating unit tests and development of the product. Involved in the maintainability of the documentation of the product.
+Working on creating tools and framework for the Business Units. Participating in creating unit tests and development of the product. Involved in the maintainability of the documentation of the product. 
 
 ### **ENGINEER (DOTNET CORE DEVELOPER)**
 
@@ -38,8 +44,8 @@ Worked on the domain of Investment Banking BackOffice responsible for developing
 ## Education
 
 ### **National Institute of Technology , Delhi**
-### Mtech - Computer Science (2022 - 2024(Persuing))
-GPA 8.67
+### Mtech - Computer Science (2022 - 2024)
+GPA 8.9
 
 ### **Dr. A.P.J Abdul Kalam Technical**
 ### BTech - Computer Science (2016 - 2020)
