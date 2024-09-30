@@ -3,11 +3,12 @@ logo: "/Profile.jpeg?raw=true" # your photo (or logo) here
 description: # your text below (remove <br> elements if you don't need line breaks)
  <br>
  Senior Software-Firmware Engineer
-  <br><br>
+  <br>
   <a href="mailto:hardik.guy@gmail.com">hardik.guy@gmail.com </a>
   <br>
   <a href="https://www.linkedin.com/in/hardik-bansal-84a440159/">LinkedIn Profile</a>
   <br>
   <a href="https://leetcode.com/bansal_hardik/">LeetCode </a>
+  <br>
 theme: jekyll-theme-minimal
 
