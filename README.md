@@ -1,6 +1,6 @@
 ## Portfolio
 
-Senior Software/Firmware Engineer in Marvell India, Working in Precision Time Protocol in Automotive Domain .Master of Technology in Computer Science from NIT Delhi. 2 years of experience executing various business functionality requirements, delivering stable and scalable approaches to improve target Application Development within time and quality parameters as per project management and best practice guidelines under an organization of repute.
+Senior Software/Firmware Engineer in Marvell India, Working in Precision Time Protocol in Automotive Domain.Master of Technology in Computer Science from NIT Delhi. 2 years of experience executing various business functionality requirements, delivering stable and scalable approaches to improve target Application Development within time and quality parameters as per project management and best practice guidelines under an organization of repute.
 
 ---
 
@@ -23,12 +23,12 @@ Senior Software/Firmware Engineer in Marvell India, Working in Precision Time Pr
 
 ## Experience
 
-### SENIOR SOFTWARE-FIRMWARE ENGINEER 
+### **SENIOR SOFTWARE-FIRMWARE ENGINEER** 
 
 #### MARVELL SEMICONDUCTOR
 Working on Precision Time Protocol in Automotive Domain. Involve in Firmware Development for Automotive Switch Development.
 
-### SOFTWARE-FIRMWARE INTERN 
+### **SOFTWARE-FIRMWARE INTERN** 
 
 #### MARVELL SEMICONDUCTOR
 Working on creating tools and framework for the Business Units. Participating in creating unit tests and development of the product. Involved in the maintainability of the documentation of the product. 
