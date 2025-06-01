@@ -56,6 +56,7 @@ GPA 8.34
 ## Achievements
 NIT Delhi Convocation 2024 –
    NIT Delhi MTECH 2024 Silver Medalist recieved by Hon'ble Vice President of India.
+   
 Nagarro Software Pvt Ltd –
    Achievement of recognition in
    Outstanding Work in the project.
