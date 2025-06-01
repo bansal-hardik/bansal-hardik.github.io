@@ -54,6 +54,8 @@ GPA 8.34
 ---
 
 ## Achievements
+NIT Delhi Convocation 2024 –
+   NIT Delhi MTECH 2024 Silver Medalist recieved by Hon'ble Vice President of India.
 Nagarro Software Pvt Ltd –
    Achievement of recognition in
    Outstanding Work in the project.
@@ -88,7 +90,7 @@ Refer : <a href="https://github.com/bansal-hardik/Python-Project">Project Link <
 ---
 
 ## Resume
-Link : <a href="https://drive.google.com/file/d/1oD7McPPIo_ITI98Azb_Scn8CkAn0WxUl/view">Resume Link </a>
+Link : <a href="https://drive.google.com/file/d/1Pwu2kHpOqcbIxf1xttzX65j7eDP8fr_r/view?usp=drive_link">Resume Link </a>
 
 ---
 
