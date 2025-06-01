@@ -26,7 +26,7 @@ Senior Software/Firmware Engineer in Marvell India, Working in Precision Time Pr
 ### **SENIOR SOFTWARE-FIRMWARE ENGINEER** 
 
 #### MARVELL SEMICONDUCTOR
-Working on Precision Time Protocol in Automotive Domain. Involve in Firmware Development for Automotive Switch Development.
+Working on Precision Time Protocol in Automotive Domain. Involve in Firmware Development for Automotive Switch Development.Working on creating the development automation and testing automation.
 
 ### **SOFTWARE-FIRMWARE INTERN** 
 
